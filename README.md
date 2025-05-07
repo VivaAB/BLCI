@@ -4,7 +4,7 @@ This repository contains the final project developed for the course **NX-414: Br
 
 ## 📁 Contents
 
-- `notebook.ipynb`: Jupyter notebook containing the full code, covering weeks 6 to 8.
+- `total_work.ipynb`: Jupyter notebook containing the full code, covering weeks 6 to 8.
 - `Report.pdf`: Final report detailing the background, methods, results, and discussion of the project.
 - `checkpoints/`: Folder containing saved checkpoints of the best-performing model(s).
 - `test.py`: Script for loading the best model and running inference on sample input or test data.
